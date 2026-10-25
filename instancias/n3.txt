@@ -1,0 +1,5 @@
+# N=3, K=12. Ciclo unico (salvo orientacion): costo 4+5+3 = 12
+3 12
+0 4 3
+4 0 5
+3 5 0
